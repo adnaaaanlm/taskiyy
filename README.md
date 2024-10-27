@@ -53,7 +53,7 @@ Un défi particulier dans cette partie a été d'assurer que la validation soit 
 
 
 
-###  backend 
+###  frontend 
 1. Installez les dépendances :
    ```bash
    npm install
